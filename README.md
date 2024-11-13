@@ -1,4 +1,4 @@
-Image Metadata Analyzer
+###**Image Metadata Analyzer**
 
 Description
 

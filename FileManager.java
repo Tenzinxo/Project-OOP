@@ -77,7 +77,7 @@ public class FileManager {
 		System.out.println("\nNombre total du fichier: " + files.size());
 		System.out.println("JPEG fichier: " + jpegCount);
 		System.out.println("PNG fichier: " + pngCount);
-		System.out.println("WEBP fichier:" + webpCount);
+		System.out.println("WEBP fichier: " + webpCount);
 	}
 	
 	

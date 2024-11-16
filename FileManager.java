@@ -6,8 +6,8 @@ import java.util.List;
 
 public class FileManager {
 	
-	public static final String[] SupportedExtensions = {".jpeg", ".jpg", ".png",".wbep"};
-	public static final String[] SupportedMimetypes = {"image/jpeg", "image/jpg", "image/png","image/wbep"};
+	public static final String[] SupportedExtensions = {".jpeg", ".jpg", ".png",".webp"};
+	public static final String[] SupportedMimetypes = {"image/jpeg", "image/jpg", "image/png","image/webp"};
 
 	
 	public static List<File> listImageFiles(String dirPATH){
